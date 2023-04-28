@@ -34,7 +34,10 @@ The models achieved the following results:
 - ConvXGB: accuracy of 98.58 %;
 
 ## Usage
-* Open the jupyter notebook and run CXGB,  (Note: Both the Dataset and the Notebook has to be in the same folder)
+* Open the jupyter notebook and run each cells of the model implemented  (Note: Both the Dataset and the Notebook has to be in the same folder)
+[CXGB]: https://github.com/ManojGowda27/Brain-Tumor-Classification/blob/main/CXGB/CXGBoost.ipynb
+[ResNet-50]: https://github.com/ManojGowda27/Brain-Tumor-Classification/blob/main/ResNet-50/ResNet50.ipynb
+[VGG-16]: https://github.com/ManojGowda27/Brain-Tumor-Classification/blob/main/VGG-16/vgg16.ipynb
 * Once the Jupyter Notebook opens, you can run the Notebook and make appropriate changes.
 
 ## Conclusion
