@@ -34,7 +34,7 @@ The models achieved the following results:
 - ConvXGB: accuracy of 98.58 %;
 
 ## Usage
-* Open the jupyter notebook and run CXGB,  (Note: Both the Dataset and the Notebook has to be in the same folder)
+* Open the jupyter notebook and run each cell CXGB.ipynb,  (Note: Both the Dataset and the Notebook has to be in the same folder)
 * Once the Jupyter Notebook opens, you can run the Notebook and make appropriate changes.
 
 ## Conclusion
