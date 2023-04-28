@@ -14,12 +14,14 @@ Matplotlib 3.1.3 or higher
 XGBoost 1.2.0 or higher
 
 ## Dataset
-The model was trained and tested on the Brain Tumor Classification dataset, which can be obtained from the Kaggle website:
+The model was trained and tested on the Brain Tumor Classification dataset, which can be obtained from the Kaggle website.
 
-Please Click on [Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) to download.
 The dataset consists of  Brain Magnetic Resonance Images (MRI). 
 The Training folder contains four subfolders: glioma, meningioma, no tumor and pituitary. 
 The Training folder consists at total of 5712 images and the Testing folder consists of 1310 images.
+
+Please Click on [Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) to download.
+
 
 ## Model Architectures
 This project implements three different architectures for the brain tumor classification model:
